@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/b2346c36-6932-4edf-8a35-196d118b2d58
+
 I want to share the last project I worked on for call center company analysis . 
 
 It was an analysis we made some calculations as FCR , AHT and CER . 
